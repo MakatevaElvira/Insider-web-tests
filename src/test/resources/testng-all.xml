@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteCollectionAll" verbose="1">
+
+    <test name="BASETests">
+        <classes>
+            <class name="com.useinsider.web.tests.InsiderWebPagesTests"/>
+        </classes>
+    </test>
+
+</suite>
